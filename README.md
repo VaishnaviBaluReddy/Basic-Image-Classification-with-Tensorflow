@@ -6,6 +6,6 @@ By leveraging the power of TensorFlow, a popular and widely-used deep learning f
 ##
 **Key Features:**
 <br><br>
-**Dataset**: The repository includes a inbuilt dataset containing grayscale images, which serves as the foundation for training the image identification model. Some sample images are also provided.<br><br>
+**Dataset**: The repository includes a inbuilt dataset containing grayscale images, which serves as the foundation for training the image identification model. <br><br>
 **Model Development**: Detailed code and instructions are provided to help you understand the process of building and training the neural network model using TensorFlow.<br><br>
 **Model Evaluation**: You will find evaluation scripts to assess the performance of the trained model, including accuracy metrics and visualization tools to analyze the results.<br>
